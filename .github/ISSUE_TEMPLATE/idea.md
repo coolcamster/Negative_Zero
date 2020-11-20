@@ -1,7 +1,7 @@
 ---
 name: Idea
 about: Ideas for the pre-release.
-title: Name Here
+title: Pre-release idea
 labels: idea
 assignees: ''
 

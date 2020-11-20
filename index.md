@@ -16,9 +16,11 @@ with new **mechanics**, new **looks**, new **feels**. Our goal is to think of wh
 throw it out of the proverbial window. Then, we take whatever flies in.
 
 #### Contact Us
-  For initial contact, please contact *fuzzymuffin343@gmail.com* for info. He will decide whether or
-not the contact is beneficial. Spam will be reported as such and ignored. To give suggestions for the
-game, consider adding an issue on [our repository](https://github.com/Kyllingene/Negative_Zero/issues).
+  For initial contact, please contact *fuzzymuffin343@gmail.com* for info. I will decide whether or
+not the contact is something to bother the rest about. 
+***Spam will be reported as such and ignored.***
+To give suggestions for the game, consider adding an issue on [**our repository**](https://github.com/Kyllingene/Negative_Zero/issues).
  
 #### Game Info
-  This section has not been added. When it is, it will be a seperate page.
+  The game is currently in the **brainstorming stage**, and as such has no actual gameplay or mechanics made.
+When developed, it will be made in [**Unreal Engine**](https://www.unrealengine.com/).

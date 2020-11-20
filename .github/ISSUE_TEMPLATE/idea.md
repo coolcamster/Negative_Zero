@@ -37,15 +37,16 @@ assignees: ''
 #New required mechanics
 
 #Rarity (How/where/how often you find it)
+
 ---
 **Statistics**
 
 #Fill in this area with helpful statistics (damage, health, rate-of-fire, etc.). Please be at least somewhat specific!
+
 ---
 **Extra Details**
 
 #Is there anything else you want to say that didn't fit elsewhere? Say it here!
 
 ---
-*Please acknowledge that you are on/connected with the dev team by putting a solitary X in the box.*
-[ ]
+*Please acknowledge that you are on/connected with the dev team by typing the studio name below.*

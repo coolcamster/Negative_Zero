@@ -12,6 +12,8 @@ assignees: ''
 
 **At-a-glance**
 
+#Who came up with the idea (REQUIRED)
+
 #Stage of idea (S1: just a thought, S2: at least 2 people agree, S3: confirmed to be in the game)
 
 #What you call it

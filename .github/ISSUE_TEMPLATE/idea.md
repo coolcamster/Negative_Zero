@@ -12,7 +12,7 @@ assignees: ''
 
 **At-a-glance**
 
-#Stage of idea (S1: just a though, S2: at least 2 people agree, S3: confirmed to be in the game)
+#Stage of idea (S1: just a thought, S2: at least 2 people agree, S3: confirmed to be in the game)
 
 #What you call it
 

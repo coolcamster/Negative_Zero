@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+# Welcome to Negative Zero's website!
 
-You can use the [editor on GitHub](https://github.com/Kyllingene/Negative_Zero/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Group
+  **Class Action Games** is a small group made by a few dudes who were bored. Our goal is
+to make **interesting**, **fun** games that stay within our (limited) skillset.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Game
+  Negative Zero is our **first project ever**. It is what **started** Class Action Games.
+Our goal for the project is to make a **new**, **innovative**, **interesting** game in an
+overused genre - **battle royale**. Our goal is **not to make a generic Fortnite/PUBG clone**,
+for no matter how high-quality, those are normally quite boring. Our goal is to make a game
+with new **mechanics**, new **looks**, new **feels**. Our goal is to think of what has been done, and
+throw it out of the proverbial window. Then, we take whatever flies in.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Kyllingene/Negative_Zero/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Contact Us
+  For initial contact, please contact *fuzzymuffin@gmail.com* for info. He will decide whether or
+not the contact is beneficial. Spam will be reported as such and ignored. To give suggestions for the
+game, consider adding an issue on [our repository](https://github.com/Kyllingene/Negative_Zero/issues).
+ 
+### Game Info
+  This section has not been added. When it is, it will be a seperate page.
